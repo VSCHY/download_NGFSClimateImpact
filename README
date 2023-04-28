@@ -1,0 +1,19 @@
+# METHODOLOGY
+https://climate-impact-explorer.climateanalytics.org/methodology/#summary
+
+https://climate-impact-explorer.climateanalytics.org/data-download/#user-guide-for-the-climate-impact-explorer-api
+
+
+
+# DATA REQUESTS
+https://github.com/NiklasSchwind/ClimateImpactExplorerBulkDownload/blob/main/BulkDownloadTimeseries.py
+https://github.com/NiklasSchwind/ClimateImpactExplorerBulkDownload/blob/a4723cc8146b5e0ac8f46a215f4cd49cd55defb5/DownloadingFunctions.py#L83
+
+
+# CHECK EXAMPLES
+https://cie-api.climateanalytics.org/api/
+
+
+
+# Find how to access subregions
+region – The ISO 3166-2 code for the national subdivision of interest. If nationwide data is requested, use the ISO 3166-1 Alpha 3 code of that country also as the region parameter.

@@ -1,0 +1,4 @@
+download/*.xlsx
+metadata/*.xlsx
+__pycache__/
+
